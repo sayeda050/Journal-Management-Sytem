@@ -6,6 +6,7 @@
 #include<conio.h>
 
 #include<string.h>
+#include <unistd.h>
 
 
 int password();
