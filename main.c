@@ -12,8 +12,10 @@ int main (void)
 
     recursiveLoading(0);
     splash();
+    system("D:\\journal1.jpg");
     system("cls");
     login();
+    system("D:\\journal2.jpg");
     system("cls");
 
 
