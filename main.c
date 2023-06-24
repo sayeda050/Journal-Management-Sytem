@@ -9,6 +9,7 @@
 
 int main (void)
 {
+
     recursiveLoading(0);
     splash();
     system("cls");

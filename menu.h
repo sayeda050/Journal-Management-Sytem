@@ -9,6 +9,7 @@
 #include <unistd.h>
 
 
+
 int password();
 
 void addrecord();
@@ -177,6 +178,7 @@ void viewrecord( )
 
 {
 
+
     FILE *fpte ;
 
     system("cls");
@@ -218,6 +220,7 @@ void viewrecord( )
         if ( fpte == NULL )
 
         {
+
 
             puts ( "\nTHE RECORD DOES NOT EXIST...\n" ) ;
 

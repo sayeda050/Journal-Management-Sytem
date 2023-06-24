@@ -67,6 +67,7 @@ char ris[]=" \n"
    printf("\n\n\n\n\n");
    sleep(1);
 
+
    FILE *sp;
    sp=fopen("image.txt","r");
    char img[1000];

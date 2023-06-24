@@ -38,6 +38,7 @@ void login(void)
         if((strcmp(userfile,username)==0 )&& (strcmp(passwordfile,password)==0))
 
          {
+
              system("cls");
             printf(".........Login Successful..........\n\n\n\n\n\n");
             printf("Enter any key to Continue\n");
